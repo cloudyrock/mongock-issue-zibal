@@ -5,7 +5,7 @@
 <groupId>support.mongock</groupId>
 <artifactId>mongock-issue-zibal</artifactId>
 <version>1.0-SNAPSHOT</version>
-<packaging>jar</packaging>
+<packaging>war</packaging>
 
 <name>project APIs</name>
 <description>---</description>
@@ -49,7 +49,6 @@
         </dependency>
     </dependencies>
 </dependencyManagement>
-
 
     <dependencies>
         <dependency>
